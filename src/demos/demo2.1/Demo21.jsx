@@ -27,7 +27,7 @@ export const Demo21 = () => {
       <Helmet>
         <title>Demo 2.1</title>
       </Helmet>
-      <h2>Jump into Spring (for Fall!)</h2>
+      <h2>Jump into Spring (for Fall!) - useSprings() with Function</h2>
       <h3>Toggle State: {change ? "true" : "false"}</h3>
       <div className="container">
         <animated.button

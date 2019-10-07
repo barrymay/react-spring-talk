@@ -29,11 +29,13 @@ export const Demo4 = () => {
             <button onClick={hideModal}>Cancel</button>
           </div>
         </Modal>
-        <h2>Jump into Spring (for Fall!)</h2>
+        <h2>Jump into Spring (for Fall!) - Modal</h2>
         <p />
-        <button className="launch" onClick={() => setShowModal(true)}>
-          Click for Modal
-        </button>
+        <div class="container">
+          <button className="launch" onClick={() => setShowModal(true)}>
+            Click for Modal
+          </button>
+        </div>
       </div>
     </>
   );

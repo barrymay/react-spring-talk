@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { useSprings, animated } from "react-spring";
+import { Helmet } from "react-helmet";
 
 import "./styles.css";
 
@@ -23,6 +24,9 @@ export const Demo21 = () => {
   setSprings(springFunc);
   return (
     <animated.div style={springs[0]} className="App">
+      <Helmet>
+        <title>Demo 2.1</title>
+      </Helmet>
       <h2>Jump into Spring (for Fall!)</h2>
       <h3>Toggle State: {change ? "true" : "false"}</h3>
       <div className="container">

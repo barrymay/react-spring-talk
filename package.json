@@ -1,5 +1,6 @@
 {
   "name": "react-spring-talk",
+  "description": "Backup site for ReactNYC React Spring Talk",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,6 +8,7 @@
     "@reach/router": "^1.2.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
+    "react-helmet": "^5.2.1",
     "react-scripts": "3.2.0",
     "react-spring": "^8.0.27",
     "react-three-fiber": "^3.0.1",

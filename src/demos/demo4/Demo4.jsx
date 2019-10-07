@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import Modal from "./modal.jsx";
+import { Helmet } from "react-helmet";
 import "./styles.css";
 
 export const Demo4 = () => {
@@ -10,6 +11,9 @@ export const Demo4 = () => {
   return (
     <>
       <div className="App">
+        <Helmet>
+          <title>Demo 4</title>
+        </Helmet>
         <Modal
           shown={showModal}
           title="Modal Header"

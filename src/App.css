@@ -15,8 +15,9 @@
 }
 
 .App-link {
-  color: #09d3ac;
+  color: rgb(223, 145, 0);
   padding-right: 4px;
+  font-size: 12px;
 }
 
 .app-content {

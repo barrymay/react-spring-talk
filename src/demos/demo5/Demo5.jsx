@@ -5,6 +5,7 @@ import { Canvas } from "react-three-fiber";
 import "./styles.css";
 import { TextLines } from "./TextLines";
 import { Starfield } from "./StarField";
+import { Helmet } from "react-helmet";
 
 export const Demo5 = () => {
   const [floatIn, setFloatIn] = useState(false);
@@ -14,6 +15,9 @@ export const Demo5 = () => {
   });
   return (
     <Fragment>
+      <Helmet>
+        <title>Demo 5</title>
+      </Helmet>
       <div>
         <h2>Jump into Spring (for Fall!)</h2>
         <div className="controls">
@@ -22,6 +26,7 @@ export const Demo5 = () => {
             css={css`
               display: flex;
               background-color: transparent;
+              outline: none;
               color: white;
               border: 1px solid white;
               border-radius: 4px;

@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { useSprings, animated } from "react-spring";
+import { Helmet } from "react-helmet";
 import "./styles.css";
 
 // on every call, updates result function for springs to run
@@ -72,6 +73,9 @@ const AnimatedList = ({ items }) => {
 
 export const Demo3 = () => (
   <>
+    <Helmet>
+      <title>Demo 3</title>
+    </Helmet>
     <h2>Jump into Spring (for Fall!)</h2>
     <AnimatedList items={"Welcome to ReactNYC S3:E7!".split(" ")} />
   </>

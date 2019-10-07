@@ -1,4 +1,4 @@
-## Kickstarting your Animation with React Spring
+## React-Spring: Kickstart your Animation Experience!
 
 This repo includes all demo's referenced in my react-spring talk on Oct 7, 2019
 

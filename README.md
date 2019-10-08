@@ -40,6 +40,7 @@ Note: all demo's (especially the react-three-fiber one) run best on Chrome, alth
   - [Paul Henschel's blog on creating react-spring](https://blog.usejournal.com/why-react-needed-yet-another-animation-library-introducing-react-spring-8212e424c5ce)
   - [React-Spring Website](react-spring.io)
   - [React-Three-Fiber github/docs](https://github.com/react-spring/react-three-fiber)
+    - BONUS: Check out his brand new (and incredible) [examples page](http://react-three-fiber.surge.sh/#/)
   - Jason Lengstorf's **Learn with Jason** series
     - [Paul Henschel talks about React-three-fiber](https://youtu.be/1rP3nNY2hTo)
     - [Sarah Drasner talks about three.js](https://youtu.be/mXcawneCRHY)

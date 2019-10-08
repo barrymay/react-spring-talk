@@ -12,6 +12,8 @@ Hi there! 👋 This repo includes all demo's referenced in my react-spring talk 
 
 ### All other demos:
 
+Note: all demo's (especially the react-three-fiber one) run best on Chrome, although they've been tested on Safari as well.
+
 #### Run the code remotely from code sandbox (no git clone needed)
 
 - Run directly from the [code sandboxes](https://codesandbox.io/dashboard/sandboxes/React-Spring-Talk). Note that CodeSandbox doesn't sort by last modified, so use the sort option on top. Demo names are in order of presentation.

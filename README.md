@@ -8,7 +8,7 @@ Hi there! This repo includes all demo's referenced in my react-spring talk at th
 
 ### The 'Sneak Peek' demo
 
-- That great [tossing cards demo](https://codesandbox.io/embed/j0y0vpz59) was not mine, but it's a superb example to get excited about. Please check it out,along with the other demo's on the react-spring site!
+- That great [tossing cards demo](https://codesandbox.io/embed/j0y0vpz59) was not mine, but it's a superb example to get excited about. Please check it out, along with the other demo's on the react-spring site!
 
 ### All other demos:
 

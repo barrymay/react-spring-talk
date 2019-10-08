@@ -1,6 +1,6 @@
 # React-Spring: Kickstart your Animation Experience!
 
-Hi there! This repo includes all demo's referenced in my react-spring talk at the [React NYC Meetup](https://www.meetup.com/ReactNYC/) on Oct 7, 2019.
+Hi there! 👋 This repo includes all demo's referenced in my react-spring talk at the [React NYC Meetup](https://www.meetup.com/ReactNYC/) on Oct 7, 2019.
 
 ## How to use this repo
 
@@ -12,11 +12,11 @@ Hi there! This repo includes all demo's referenced in my react-spring talk at th
 
 ### All other demos:
 
-#### Run the code remotely from code sandbox
+#### Run the code remotely from code sandbox (no git clone needed)
 
-- Run directly from the [code sandboxes](https://codesandbox.io/dashboard/sandboxes/React-Spring-Talk). Note that CodeSandbox doesn't sorts by last modified, so use the sort option on top
+- Run directly from the [code sandboxes](https://codesandbox.io/dashboard/sandboxes/React-Spring-Talk). Note that CodeSandbox doesn't sort by last modified, so use the sort option on top. Demo names are in order of presentation.
 
-#### Run the code locally
+#### OR... Run the code locally
 
 - Requirements
 
@@ -28,6 +28,25 @@ Hi there! This repo includes all demo's referenced in my react-spring talk at th
   - `git clone` the repo
   - `yarn install`
   - Run `yarn start` (this repo is built with create-react-app, so typical commands apply)
+
+### Links:
+
+- Talks to see/read
+
+  - [Cheng Lou's react-europe talk introducing react-motion](https://youtu.be/1tavDv5hXpo)
+  - [Christopher Chedeau's React-Rally 'animated' talk](https://speakerdeck.com/vjeux/react-rally-animated-react-performance-toolbox)
+  - [Paul Henschel's blog on creating react-spring](https://blog.usejournal.com/why-react-needed-yet-another-animation-library-introducing-react-spring-8212e424c5ce)
+  - [React-Spring Website](react-spring.io)
+  - [React-Three-Fiber github/docs](https://github.com/react-spring/react-three-fiber)
+  - Jason Lengstorf's **Learn with Jason** series
+    - [Paul Henschel talks about React-three-fiber](https://youtu.be/1rP3nNY2hTo)
+    - [Sarah Drasner talks about three.js](https://youtu.be/mXcawneCRHY)
+
+- Folks to Follow:
+  - Cheng Lou - @\_chenglou
+  - Christopher Chedeau - @vjeux
+  - Paul Henschel - @0xca0a
+  - Sarah Drasner - @sarah_edo
 
 ### Feedback / PR's
 

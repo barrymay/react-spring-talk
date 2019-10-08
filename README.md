@@ -4,23 +4,36 @@ This repo includes all demo's referenced in my react-spring talk at the [React N
 
 ## How to use this repo
 
-Slide Deck: [PDF](./slide-decks/React-Spring-Talk.pdf)
+Here' the slide deck: ([PDF](./slide-decks/React-Spring-Talk.pdf))
 
-## How to build
+### The 'Sneak Peek' demo
 
-In the project directory, you can run:
+- That great [tossing cards demo](https://codesandbox.io/embed/j0y0vpz59) was not mine, but it's a superb example to get excited about. Please check it out,along with the other demo's on the react-spring site!
 
-### `yarn start`
+### All other demos:
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#### Run the code remotely from code sandbox
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+- Run directly from the [code sandboxes](https://codesandbox.io/dashboard/sandboxes/React-Spring-Talk). Note that CodeSandbox doesn't sorts by last modified, so use the sort option on top
+
+#### Run the code locally
+
+- `git clone` the repo
+- Run `yarn start` (this is all built with create-react-app)
+
+### Feedback / PR's
+
+Feedback and PR's are welcome! Please add a star to this repo if you found it useful!
 
 ### Special Thanks
 
 ![](readme-images/ThankYouImage.png)
 
 - Thanks to [React NYC](https://www.meetup.com/ReactNYC/) for hosting and to everyone in attendance that night!
-- [Paul Henschel](https://github.com/drcmda) for creating react-spring and react-three-fiber, along with everyone who create existing demo's and examples for it!
+- Thanks to [Paul Henschel](https://github.com/drcmda) for creating react-spring and react-three-fiber, along with everyone who create demo's and examples for it!
+
+## Lastly...
+
+Any ideas or feedback please feel free to reach out!
+
+Copyright (c) 2019 Barry May (barry4dev@outlook.com)

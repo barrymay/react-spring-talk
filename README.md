@@ -14,13 +14,13 @@ Hi there! 👋 This repo includes all demo's referenced in my react-spring talk 
 
 #### Run/tweak the code remotely on Code Sandbox (no git clone needed)
 
-- Demo #1 - [Simple useSpring() Intro](https://codesandbox.io/s/react-spring-1-usespring-2tyi9)
-- Demo #2 - [Double useSpring()](https://codesandbox.io/s/react-spring-2-usespring-compound-ql7tq)
-- Demo #2.1 - [Refactor for the useSprings() hook](https://codesandbox.io/s/react-spring-21-usesprings-gjcgu)
+- Demo #1 - [Simple useSpring() Intro and walkthrough](https://codesandbox.io/s/react-spring-1-usespring-2tyi9)
+- Demo #2 - [useSpring() applied twice](https://codesandbox.io/s/react-spring-2-usespring-compound-ql7tq)
+- Demo #2.1 - [Simple Refactor for the useSprings() hook](https://codesandbox.io/s/react-spring-21-usesprings-gjcgu)
 - Demo #3 - [useSprings() for a list](https://codesandbox.io/s/react-spring-3-usesprings-withlist-x28h8)
 - Demo #4 - [Modal with useTransition()](https://codesandbox.io/s/react-spring-4-usetransition-modal-0ols9)
 - Demo #5 - [React-Three-Fiber and React-Spring](https://codesandbox.io/s/react-spring-5-final-demo-1xquj)
-  - Note: The react-three-fiber demo runs best on Chrome, the TextGeometry piece in particular is quite heavy to render
+  - Note: The react-three-fiber demo runs best on Chrome, the TextGeometry piece in particular is quite heavy to render!
 
 #### OR... Run the code locally
 

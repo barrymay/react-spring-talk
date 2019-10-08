@@ -8,7 +8,7 @@ Hi there! 👋 This repo includes all demo's referenced in my react-spring talk 
 
 ### The 'Sneak Peek' demo
 
-- That great [tossing cards demo](https://codesandbox.io/embed/j0y0vpz59) was not mine, but it's a superb example to get excited about. Please check it out, along with the other demo's on the react-spring site!
+- That great [tossing cards demo](https://codesandbox.io/embed/j0y0vpz59) was not mine, but it's a superb example to get excited about. Please check it out, along with the other demo's on the react-spring site.
 
 ### All other demos:
 
@@ -20,7 +20,7 @@ Hi there! 👋 This repo includes all demo's referenced in my react-spring talk 
 - Demo #3 - [useSprings() for a list](https://codesandbox.io/s/react-spring-3-usesprings-withlist-x28h8)
 - Demo #4 - [Modal with useTransition()](https://codesandbox.io/s/react-spring-4-usetransition-modal-0ols9)
 - Demo #5 - [React-Three-Fiber and React-Spring](https://codesandbox.io/s/react-spring-5-final-demo-1xquj)
-  - Note: The react-three-fiber demo runs best on Chrome
+  - Note: The react-three-fiber demo runs best on Chrome, the TextGeometry piece in particular is quite heavy to render
 
 #### OR... Run the code locally
 

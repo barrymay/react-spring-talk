@@ -33,7 +33,7 @@ Note: all demo's (especially the react-three-fiber one) run best on Chrome, alth
 
 ### Links:
 
-- Talks to see/read
+- Talks to see/read:
 
   - [Cheng Lou's react-europe talk introducing react-motion](https://youtu.be/1tavDv5hXpo)
   - [Christopher Chedeau's React-Rally 'animated' talk](https://speakerdeck.com/vjeux/react-rally-animated-react-performance-toolbox)

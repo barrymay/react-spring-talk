@@ -51,10 +51,6 @@ Note: all demo's (especially the react-three-fiber one) run best on Chrome, alth
   - Paul Henschel - @0xca0a
   - Sarah Drasner - @sarah_edo
 
-### Feedback / PR's
-
-Feedback and PR's are welcome! Please add a star to this repo if you found it useful!
-
 ### Special Thanks
 
 ![](readme-images/ThankYouImage.png)
@@ -62,6 +58,10 @@ Feedback and PR's are welcome! Please add a star to this repo if you found it us
 - Thanks to [React NYC](https://www.meetup.com/ReactNYC/) for hosting and to everyone in attendance that night
 - Thanks to [Paul Henschel](https://github.com/drcmda) for creating react-spring and react-three-fiber, along with everyone who create demo's and examples for it
 - The mysterious [Mr Doob](https://mrdoob.com), wherever you are, for creating threejs
+
+### Feedback / PR's
+
+Feedback and PR's are welcome! Please add a star to this repo if you found this useful!
 
 ## Lastly...
 

@@ -1,10 +1,10 @@
 # React-Spring: Kickstart your Animation Experience!
 
-This repo includes all demo's referenced in my react-spring talk at the [React NYC Meetup](https://www.meetup.com/ReactNYC/) from Oct 7, 2019.
+Hi there! This repo includes all demo's referenced in my react-spring talk at the [React NYC Meetup](https://www.meetup.com/ReactNYC/) on Oct 7, 2019.
 
 ## How to use this repo
 
-Here' the slide deck: ([PDF](./slide-decks/React-Spring-Talk.pdf))
+### Slide Deck: ([PDF](./slide-decks/React-Spring-Talk.pdf))
 
 ### The 'Sneak Peek' demo
 
@@ -18,8 +18,16 @@ Here' the slide deck: ([PDF](./slide-decks/React-Spring-Talk.pdf))
 
 #### Run the code locally
 
-- `git clone` the repo
-- Run `yarn start` (this is all built with create-react-app)
+- Requirements
+
+  - [NodeJS 10](https://nodejs.org/en/) for running
+  - [Yarn](yarnpkg.com) for packaging
+  - Suggested IDE is [VSCode](https://code.visualstudio.com), but any IDE should work
+
+- To run
+  - `git clone` the repo
+  - `yarn install`
+  - Run `yarn start` (this repo is built with create-react-app, so typical commands apply)
 
 ### Feedback / PR's
 
@@ -29,8 +37,9 @@ Feedback and PR's are welcome! Please add a star to this repo if you found it us
 
 ![](readme-images/ThankYouImage.png)
 
-- Thanks to [React NYC](https://www.meetup.com/ReactNYC/) for hosting and to everyone in attendance that night!
-- Thanks to [Paul Henschel](https://github.com/drcmda) for creating react-spring and react-three-fiber, along with everyone who create demo's and examples for it!
+- Thanks to [React NYC](https://www.meetup.com/ReactNYC/) for hosting and to everyone in attendance that night
+- Thanks to [Paul Henschel](https://github.com/drcmda) for creating react-spring and react-three-fiber, along with everyone who create demo's and examples for it
+- The mysterious [Mr Doob](https://mrdoob.com), wherever you are, for creating threejs
 
 ## Lastly...
 

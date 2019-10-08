@@ -12,18 +12,22 @@ Hi there! 👋 This repo includes all demo's referenced in my react-spring talk 
 
 ### All other demos:
 
-Note: all demo's (especially the react-three-fiber one) run best on Chrome, although they've been tested on Safari as well.
+#### Run/tweak the code remotely on Code Sandbox (no git clone needed)
 
-#### Run the code remotely from code sandbox (no git clone needed)
-
-- Run directly from the [code sandboxes](https://codesandbox.io/dashboard/sandboxes/React-Spring-Talk). Note that CodeSandbox doesn't sort by last modified, so use the sort option on top. Demo names are in order of presentation.
+- Demo #1 - [Simple useSpring() Intro](https://codesandbox.io/s/react-spring-1-usespring-2tyi9)
+- Demo #2 - [Double useSpring()](https://codesandbox.io/s/react-spring-2-usespring-compound-ql7tq)
+- Demo #2.1 - [Refactor for the useSprings() hook](https://codesandbox.io/s/react-spring-21-usesprings-gjcgu)
+- Demo #3 - [useSprings() for a list](https://codesandbox.io/s/react-spring-3-usesprings-withlist-x28h8)
+- Demo #4 - [Modal with useTransition()](https://codesandbox.io/s/react-spring-4-usetransition-modal-0ols9)
+- Demo #5 - [React-Three-Fiber and React-Spring](https://codesandbox.io/s/react-spring-5-final-demo-1xquj)
+  - Note: The react-three-fiber demo runs best on Chrome
 
 #### OR... Run the code locally
 
 - Requirements
 
   - [NodeJS 10](https://nodejs.org/en/) for running
-  - [Yarn](yarnpkg.com) for packaging
+  - [Yarn](https://yarnpkg.com) for packaging
   - Suggested IDE is [VSCode](https://code.visualstudio.com), but any IDE should work
 
 - To run
@@ -38,7 +42,7 @@ Note: all demo's (especially the react-three-fiber one) run best on Chrome, alth
   - [Cheng Lou's react-europe talk introducing react-motion](https://youtu.be/1tavDv5hXpo)
   - [Christopher Chedeau's React-Rally 'animated' talk](https://speakerdeck.com/vjeux/react-rally-animated-react-performance-toolbox)
   - [Paul Henschel's blog on creating react-spring](https://blog.usejournal.com/why-react-needed-yet-another-animation-library-introducing-react-spring-8212e424c5ce)
-  - [React-Spring Website](react-spring.io)
+  - [React-Spring Website](https://www.react-spring.io/)
   - [React-Three-Fiber github/docs](https://github.com/react-spring/react-three-fiber)
     - BONUS: Check out his brand new (and incredible) [examples page](http://react-three-fiber.surge.sh/#/)
   - Jason Lengstorf's **Learn with Jason** series

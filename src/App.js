@@ -11,7 +11,7 @@ import { Demo5 } from "./demos/demo5/Demo5";
 function App() {
   return (
     <div className="App">
-      <div className="App-body">
+      <div className="app-links">
         <Link className="App-link" to="demo1">
           Demo 1
         </Link>

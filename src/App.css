@@ -1,17 +1,19 @@
 .App {
   text-align: center;
+  height: 100vh;
 }
 
 .App-logo {
   height: 40vmin;
 }
 
-.App-body {
+.app-links {
   background-color: #282c34;
   display: flex;
   align-items: center;
   justify-content: center;
   color: white;
+  height: 20px;
 }
 
 .App-link {
@@ -21,7 +23,7 @@
 }
 
 .app-content {
-  height: 100%;
+  height: calc(100% - 20px);
 }
 
 .app-content > div {

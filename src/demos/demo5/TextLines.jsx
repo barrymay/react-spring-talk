@@ -1,6 +1,9 @@
 /** @jsx jsx */
 import { jsx } from "@emotion/core";
 import { Suspense, useRef, useState } from "react";
+// TODO: There's a conflict between react-spring and react-spring/three that's causing a working conflict
+// when both are in the same project. This is the reason demo5 is commented out
+// note that https://codesandbox.io/s/react-spring-5-final-demo-v9-c0y4s works fine in a standalone func
 import { animated, useSpring, useTransition } from "react-spring/three";
 import "./styles.css";
 import { ThreeText } from "./ThreeText";

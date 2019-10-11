@@ -6,7 +6,7 @@ import { Demo2 } from "./demos/demo2/Demo2";
 import { Demo21 } from "./demos/demo2.1/Demo21";
 import { Demo3 } from "./demos/demo3/Demo3";
 import { Demo4 } from "./demos/demo4/Demo4";
-import { Demo5 } from "./demos/demo5/Demo5";
+// import { Demo5 } from "./demos/demo5/Demo5";
 
 function App() {
   return (
@@ -27,9 +27,9 @@ function App() {
         <Link className="App-link" to="demo4">
           Demo 4
         </Link>
-        <Link className="App-link" to="demo5">
+        {/*<Link className="App-link" to="demo5">
           Demo 5
-        </Link>
+        </Link> */}
       </div>
       <div className="app-content">
         <Router>
@@ -39,7 +39,7 @@ function App() {
           <Demo21 path="demo21" />
           <Demo3 path="demo3" />
           <Demo4 path="demo4" />
-          <Demo5 path="demo5" />
+          {/* <Demo5 path="demo5" /> */}
         </Router>
       </div>
     </div>

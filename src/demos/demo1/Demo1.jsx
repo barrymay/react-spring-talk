@@ -6,7 +6,6 @@ import "./styles.css";
 
 export const Demo1 = () => {
   const [change, setChange] = useState(false);
-
   const springProps = useSpring({
     color: change ? "white" : "blue",
     backgroundColor: change ? "rgb(223, 145, 0)" : "white",

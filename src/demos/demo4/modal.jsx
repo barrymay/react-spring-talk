@@ -21,16 +21,17 @@ const Modal = ({ children, title, onCancel, width, height, shown }) => {
     }
   };
 
-  const transitions = useTransition(shown, null, {
+  const transition = useTransition(shown, {
+    expires: 0,
     from: { opacity: 0 },
     enter: { opacity: 1 },
     leave: { opacity: 0 }
   });
 
-  return transitions.map(({ item, key, props }) => {
+  return transition((props, item) => {
     return (
       item && (
-        <ModalBody key={key}>
+        <ModalBody>
           <animated.div
             style={props}
             ref={parentDiv}

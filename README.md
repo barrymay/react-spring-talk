@@ -50,7 +50,7 @@ Hi there! 👋 This repo includes all demo's referenced in my react-spring talk 
 
 - SpringV9 Branch
   - React-Spring v9 is used in this branch to update all demos.
-  - Note that Demo 5 is currently commented out due to an bug I'm working thru - The demo #5 for v9 on CodeSandbox above works fine at present.
+  - Note that Demo 5 is currently commented out due to a bug I'm working thru - The demo #5 for v9 on CodeSandbox above works ok at present.
 
 ### Links:
 

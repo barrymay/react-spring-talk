@@ -22,6 +22,18 @@ Hi there! 👋 This repo includes all demo's referenced in my react-spring talk 
 - Demo #5 - [React-Three-Fiber and React-Spring](https://codesandbox.io/s/react-spring-5-final-demo-1xquj)
   - Note: The react-three-fiber demo runs best on Chrome, the TextGeometry piece in particular is quite heavy to render!
 
+#### React-Spring V9 (beta) Demos
+
+- Notes:
+  - The V8->V9 (beta) update is fairly straightforward for all hooks except for useTransition, which had important changes
+  - Demos 4 and 5 have the changes for useTransition(). Many thanks to Alec Larson for assistance in working out issues.
+- Demo #1 - [Simple useSpring() Intro and walkthrough](https://codesandbox.io/s/react-spring-1-usespring-v9-oioh9)
+- Demo #2 - [useSpring() applied twice](https://codesandbox.io/s/react-spring-2-usespring-compound-v9-oqljo)
+- Demo #2.1 - [Simple Refactor for the useSprings() hook](https://codesandbox.io/s/react-spring-21-usesprings-v9-w0gd7)
+- Demo #3 - [useSprings() for a list](https://codesandbox.io/s/react-spring-3-usesprings-withlist-v9-kgc5y)
+- Demo #4 - [Modal with useTransition()](https://codesandbox.io/s/react-spring-4-usetransition-modal-v9-ntmku)
+- Demo #5 - [React-Three-Fiber and React-Spring](https://codesandbox.io/s/react-spring-5-final-demo-v9-c0y4s)
+
 #### OR... Run the code locally
 
 - Requirements
@@ -31,9 +43,14 @@ Hi there! 👋 This repo includes all demo's referenced in my react-spring talk 
   - Suggested IDE is [VSCode](https://code.visualstudio.com), but any IDE should work
 
 - To run
+
   - `git clone` the repo
   - `yarn install`
   - Run `yarn start` (this repo is built with create-react-app, so typical commands apply)
+
+- SpringV9 Branch
+  - React-Spring v9 is used in this branch to update all demos.
+  - Note that Demo 5 is currently commented out due to an bug I'm working thru - The demo #5 for v9 on CodeSandbox above works fine at present.
 
 ### Links:
 

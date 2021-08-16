@@ -1,16 +1,17 @@
 {
   "name": "react-spring-talk",
   "description": "Backup site for ReactNYC React Spring Talk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "@babel/helper-builder-react-jsx": "^7.14.5",
-    "@emotion/core": "^10.1.1",
+    "@emotion/core": "^11.0.0",
+    "@emotion/react": "^11.4.1",
     "@reach/router": "^1.3.4",
-    "react": "^16.14.0",
-    "react-dom": "^16.14.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "react-helmet": "^5.2.1",
-    "react-scripts": "3.4.4",
+    "react-scripts": "4.0.3",
     "react-spring": "^8.0.27",
     "react-three-fiber": "^3.0.17",
     "three": "^0.125.0"

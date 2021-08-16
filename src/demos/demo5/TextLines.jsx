@@ -1,5 +1,3 @@
-/** @jsx jsx */
-import { jsx } from "@emotion/core";
 import { Suspense, useRef, useState } from "react";
 import { animated, useSpring, useTransition } from "react-spring/three";
 import "./styles.css";

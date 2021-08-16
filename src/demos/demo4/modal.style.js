@@ -1,5 +1,4 @@
-/** @jsx jsx */
-import { css } from "@emotion/core";
+import { css } from "@emotion/react";
 
 export const modalStyle = css`
   background-color: rgba(0, 0, 0, 0.5);

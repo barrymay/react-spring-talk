@@ -1,5 +1,4 @@
-/** @jsx jsx */
-import { css, jsx } from "@emotion/core";
+import { css } from "@emotion/react";
 import { Fragment, useState, useRef, useEffect } from "react";
 import { Canvas } from "react-three-fiber";
 import "./styles.css";

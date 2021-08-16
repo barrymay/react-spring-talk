@@ -1,5 +1,4 @@
-/** @jsx jsx */
-import { css, jsx } from "@emotion/core";
+import { css } from "@emotion/react";
 import { useEffect, useRef } from "react";
 import { createPortal } from "react-dom";
 import { animated, useTransition } from "react-spring";
